@@ -1,0 +1,51 @@
+\chapter{Introdução}
+\ChapterTOC
+
+\section{Scope and motivation}
+Aerodynamics addresses forces and flows associated with moving bodies and fluids \cite{anderson2017}.
+
+\section{A basic mathematical model}
+A simple continuity equation for an incompressible flow is
+\begin{equation}
+  \nabla \cdot \mathbf{u} = 0.
+  \label{eq:continuity}
+\end{equation}
+
+\begin{example}
+For a uniform two-dimensional flow, $\mathbf{u}=(U_\infty,0)$, the divergence vanishes.
+\end{example}
+
+\begin{exercise}
+Verify Equation~\eqref{eq:continuity} for the uniform flow above.
+\end{exercise}
+
+\begin{remark}
+This is a demonstration of the class layout rather than a complete chapter.
+\end{remark}
+
+\section{Boundary Layer}
+
+Figure \ref{fig:lam-turb-bl} shows a typical turbulent and laminar boundary layer.
+
+\begin{figure}[h!]
+    \centering
+    \caption{Comparison between laminar and turbulent boundary layer.}
+    % First figure
+    \begin{subfigure}[t]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{figures/CHAP-01-FIG-01.png}
+        \caption{Boundaer layer.}
+        \label{fig:boundary-layer}
+    \end{subfigure}
+    \hfill
+    % Second figure
+    \begin{subfigure}[t]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{figures/CHAP-01-FIG-02.png}
+        \caption{Law of the wall.}
+        \label{fig:law-of-the-wall}
+    \end{subfigure}
+    \label{fig:lam-turb-bl}
+\end{figure}
+
+\ChapterReferences

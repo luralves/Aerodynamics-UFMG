@@ -1,0 +1,220 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{2}
+  \datalist[entry]{none/global//global/global}
+    \entry{anderson2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=64c854ac2b93b86948928da13eae0277}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{64c854ac2b93b86948928da13eae0277}
+      \strng{fullhash}{64c854ac2b93b86948928da13eae0277}
+      \strng{bibnamehash}{64c854ac2b93b86948928da13eae0277}
+      \strng{authorbibnamehash}{64c854ac2b93b86948928da13eae0277}
+      \strng{authornamehash}{64c854ac2b93b86948928da13eae0277}
+      \strng{authorfullhash}{64c854ac2b93b86948928da13eae0277}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6}
+      \field{title}{Fundamentals of Aerodynamics}
+      \field{year}{2017}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{none/global//global/global}
+    \entry{anderson2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=64c854ac2b93b86948928da13eae0277}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{64c854ac2b93b86948928da13eae0277}
+      \strng{fullhash}{64c854ac2b93b86948928da13eae0277}
+      \strng{bibnamehash}{64c854ac2b93b86948928da13eae0277}
+      \strng{authorbibnamehash}{64c854ac2b93b86948928da13eae0277}
+      \strng{authornamehash}{64c854ac2b93b86948928da13eae0277}
+      \strng{authorfullhash}{64c854ac2b93b86948928da13eae0277}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6}
+      \field{title}{Fundamentals of Aerodynamics}
+      \field{year}{2017}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{4}
+  \datalist[entry]{none/global//global/global}
+    \entry{katz2001}{book}{}
+      \name{author}{2}{}{%
+        {{hash=feda1dbc23fcb366eb9285d06e8b5d55}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2caa384b3ededd4f51eeec74d82f9944}{%
+           family={Plotkin},
+           familyi={P\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{fullhash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{bibnamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authorbibnamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authornamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authorfullhash}{95abd890f92187a812a7f582c8c7fef6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Low-Speed Aerodynamics}
+      \field{year}{2001}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{5}
+  \datalist[entry]{none/global//global/global}
+    \entry{katz2001}{book}{}
+      \name{author}{2}{}{%
+        {{hash=feda1dbc23fcb366eb9285d06e8b5d55}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2caa384b3ededd4f51eeec74d82f9944}{%
+           family={Plotkin},
+           familyi={P\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{fullhash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{bibnamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authorbibnamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authornamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authorfullhash}{95abd890f92187a812a7f582c8c7fef6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Low-Speed Aerodynamics}
+      \field{year}{2001}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{6}
+  \datalist[entry]{none/global//global/global}
+    \entry{katz2001}{book}{}
+      \name{author}{2}{}{%
+        {{hash=feda1dbc23fcb366eb9285d06e8b5d55}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2caa384b3ededd4f51eeec74d82f9944}{%
+           family={Plotkin},
+           familyi={P\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{fullhash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{bibnamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authorbibnamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authornamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authorfullhash}{95abd890f92187a812a7f582c8c7fef6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Low-Speed Aerodynamics}
+      \field{year}{2001}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{7}
+  \datalist[entry]{none/global//global/global}
+    \entry{katz2001}{book}{}
+      \name{author}{2}{}{%
+        {{hash=feda1dbc23fcb366eb9285d06e8b5d55}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2caa384b3ededd4f51eeec74d82f9944}{%
+           family={Plotkin},
+           familyi={P\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{fullhash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{bibnamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authorbibnamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authornamehash}{95abd890f92187a812a7f582c8c7fef6}
+      \strng{authorfullhash}{95abd890f92187a812a7f582c8c7fef6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Low-Speed Aerodynamics}
+      \field{year}{2001}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

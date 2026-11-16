@@ -1,0 +1,59 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[73] biber:340> INFO - === seg nov 16, 2026, 16:24:41
+[87] Biber.pm:419> INFO - Reading 'main.bcf'
+[159] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[159] Biber.pm:979> INFO - Found 0 citekeys in bib section 1
+[159] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[160] Biber.pm:979> INFO - Found 1 citekeys in bib section 2
+[160] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[160] Biber.pm:979> INFO - Found 1 citekeys in bib section 3
+[160] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[160] Biber.pm:979> INFO - Found 1 citekeys in bib section 4
+[160] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[160] Biber.pm:979> INFO - Found 1 citekeys in bib section 5
+[160] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[161] Biber.pm:979> INFO - Found 1 citekeys in bib section 6
+[161] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[161] Biber.pm:979> INFO - Found 1 citekeys in bib section 7
+[161] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[235] Biber.pm:4419> INFO - Processing section 2
+[247] Biber.pm:4610> INFO - Looking for bibtex file '../../reference.bib' for section 2
+[248] bibtex.pm:1713> INFO - LaTeX decoding ...
+[251] bibtex.pm:1519> INFO - Found BibTeX data source '../../reference.bib'
+[288] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[288] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[288] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'pt-BR'
+[288] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
+[290] Biber.pm:4419> INFO - Processing section 3
+[290] Biber.pm:4610> INFO - Looking for bibtex file '../../reference.bib' for section 3
+[299] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[299] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[299] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'pt-BR'
+[300] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
+[301] Biber.pm:4419> INFO - Processing section 4
+[301] Biber.pm:4610> INFO - Looking for bibtex file '../../reference.bib' for section 4
+[312] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[312] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[312] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'pt-BR'
+[312] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
+[313] Biber.pm:4419> INFO - Processing section 5
+[313] Biber.pm:4610> INFO - Looking for bibtex file '../../reference.bib' for section 5
+[326] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[326] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[326] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'pt-BR'
+[326] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
+[327] Biber.pm:4419> INFO - Processing section 6
+[327] Biber.pm:4610> INFO - Looking for bibtex file '../../reference.bib' for section 6
+[340] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[340] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[340] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'pt-BR'
+[340] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
+[341] Biber.pm:4419> INFO - Processing section 7
+[341] Biber.pm:4610> INFO - Looking for bibtex file '../../reference.bib' for section 7
+[353] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[353] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[353] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'pt-BR'
+[353] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
+[355] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[357] bbl.pm:763> INFO - Output to main.bbl

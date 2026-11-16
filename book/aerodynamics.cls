@@ -143,7 +143,7 @@
         ([yshift=-148mm]current page.north east);
       \node[anchor=west,inner sep=0pt,text width=165mm,align=left]
         at ([xshift=28mm,yshift=-132.5mm]current page.north west)
-        {{\sffamily\bfseries\fontsize{29}{33}\selectfont\@title}};
+        {{\sffamily\bfseries\fontsize{25}{30}\selectfont\@title}};
       % Subtitle.
       \node[anchor=north west,inner sep=0pt,text width=165mm,align=left]
         at ([xshift=28mm,yshift=-153mm]current page.north west)
